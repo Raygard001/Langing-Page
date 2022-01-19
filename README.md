@@ -1,2 +1,2 @@
-# Langing-Page
+# Landing-Page
 My first job in IT
